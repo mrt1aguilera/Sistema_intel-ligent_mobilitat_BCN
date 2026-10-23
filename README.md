@@ -13,7 +13,7 @@ També es possible que ens faci fer una combinació de transport, de totes maner
 
 ### Objectiu general
 
-Dissenyar i desenvolupar un prototip funcional de dashboard web que faciliti la planificació de desplaçaments urbans a Barcelona, prioritzant alternatives al vehicle privat i promovent una mobilitat més sostenible.
+Dissenyar i desenvolupar un prototip funcional de dashboard web que faciliti la planificació de desplaçaments urbans a Barcelona, prioritzant alternatives al vehicle privat i promovent una mobilitat més sostenible a partir dels serveis públics que ofereix la ciutat de Barcelona.
 
 ### Objectius específics
 
