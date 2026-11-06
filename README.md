@@ -49,5 +49,6 @@ En aquest cas, el model lògic de la plataforma intel·ligent de mobilitat urban
 ## 6.1. Inputs recursos
 
 Els inputs són tots els recursos humans, tecnològics, materials i informatius necessaris per desenvolupar i posar en funcionament el prototip de la plataforma.
+
 <img width="350" height="224" alt="image" src="https://github.com/user-attachments/assets/18300bc3-aa9c-43ae-8ef2-e83e26a27af8" />
 
