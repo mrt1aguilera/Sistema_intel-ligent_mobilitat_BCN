@@ -52,3 +52,10 @@ Els inputs són tots els recursos humans, tecnològics, materials i informatius 
 
 <img width="350" height="224" alt="image" src="https://github.com/user-attachments/assets/18300bc3-aa9c-43ae-8ef2-e83e26a27af8" />
 
+6.2. Activitats
+
+Les activitats són les tasques que desenvoluparà l'equip utilitzant els recursos disponibles per aconseguir els objectius del projecte.
+
+<img width="338" height="351" alt="image" src="https://github.com/user-attachments/assets/6eb2c065-e31e-4767-a8b9-d15b056a9889" />
+
+
