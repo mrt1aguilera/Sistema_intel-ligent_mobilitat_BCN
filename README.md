@@ -39,3 +39,15 @@ Es considerarà que el projecte ha assolit els seus objectius mínims quan es co
 ## 5. Resultat esperat
 
 El resultat final serà una plataforma web demostrativa que permetrà consultar alternatives de mobilitat urbana i experimentar amb un sistema de cotxe compartit. Es pretén obtenir un prototip funcional que mostri com la tecnologia pot facilitar una mobilitat més eficient, accessible i sostenible a la ciutat de Barcelona.
+
+## 6. Model lògic del projecte
+
+El model lògic permet representar la relació entre els recursos necessaris per desenvolupar el projecte, les activitats que es duran a terme, els productes que se n'obtindran i els resultats i impactes que es pretenen aconseguir.
+
+En aquest cas, el model lògic de la plataforma intel·ligent de mobilitat urbana a Barcelona s'estructura en cinc blocs: inputs, activitats, outputs, outcomes i impacte.
+
+## 6.1. Inputs recursos
+
+Els inputs són tots els recursos humans, tecnològics, materials i informatius necessaris per desenvolupar i posar en funcionament el prototip de la plataforma.
+<img width="350" height="224" alt="image" src="https://github.com/user-attachments/assets/18300bc3-aa9c-43ae-8ef2-e83e26a27af8" />
+
