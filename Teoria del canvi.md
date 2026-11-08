@@ -79,3 +79,11 @@ Millor planificació · Més informació · Més oportunitats de compartir vehic
 
 # 5. IMPACTE
 Menys cotxes individuals · Menys congestió · Menys emissions · Mobilitat urbana més sostenible
+
+# Aspectes importants a tenir en compte
+Primer de tot, no confondre els outputs amb els outcomes. Per exemple, tenir un sistema de carpooling és un output, però, aconseguir que els usuaris trobin persones amb qui compartir vehicle és un outcome.
+
+No es poden prometre impactes que encara no es poden demostrar ni es pot afirmar que es reduirà un 20% la contaminació de Barcelona si només hem desenvolupat un prototip.
+
+És important diferenciar les metes del projecte de les metes d'impacte. 
+Les metes del prototip sí que depenen directament del nostre treball. En canvi, les metes de reducció del trànsit o de contaminació, depenen també de la quantitat d'usuaris i del comportament dels ciutadans.
